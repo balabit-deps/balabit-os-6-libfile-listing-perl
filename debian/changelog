@@ -1,0 +1,31 @@
+libfile-listing-perl (6.04-1) unstable; urgency=low
+
+  * Email change: Angel Abad -> angel@debian.org
+  * Imported Upstream version 6.04
+  * debian/copyright: Update debian/* section
+
+ -- Angel Abad <angel@debian.org>  Thu, 16 Feb 2012 08:59:04 +0100
+
+libfile-listing-perl (6.03-1) unstable; urgency=low
+
+  [ Ansgar Burchardt ]
+  * debian/control: Convert Vcs-* fields to Git.
+
+  [ Salvatore Bonaccorso ]
+  * debian/copyright: Replace DEP5 Format-Specification URL from
+    svn.debian.org to anonscm.debian.org URL.
+
+  [ Angel Abad ]
+  * Imported Upstream version 6.03
+  * Bump debhelper compatibility level to 8
+  * debian/control: Add myself to Uploaders
+  * debian/copyright: Update debian/* section
+  * Bump Standards-Version to 3.9.2 (no changes)
+
+ -- Angel Abad <angelabad@gmail.com>  Wed, 21 Sep 2011 22:33:18 +0200
+
+libfile-listing-perl (6.01-1) unstable; urgency=low
+
+  * Initial Release (Closes: #617707).
+
+ -- Nicholas Bamber <nicholas@periapt.co.uk>  Sun, 13 Mar 2011 19:18:12 +0000
